@@ -2,8 +2,7 @@ all rights of the .exe file go to the creators of Conquerors Remastered - https:
 all rights of the Antarctica scenario goes to GyLala - https://www.youtube.com/channel/UCeLlknWUtfWUyAYpvWOUkpg
 
 
-**General features**
-
+General features
 - New 2022 scenario
 - New Antarctica Map
 - New background, font & UI
@@ -30,8 +29,7 @@ all rights of the Antarctica scenario goes to GyLala - https://www.youtube.com/c
 - Tigray War (Ethiopia)
 - Yemen Civil War
 
-**Features from Conquerors**
-
+Features from Conquerors
 - AI Aggressiveness 0-1000%
 - AI better assimilates provinces
 - All lands are automatically granted when a country's capital falls and about 75% of its territory is occupied (Capitulation System)
